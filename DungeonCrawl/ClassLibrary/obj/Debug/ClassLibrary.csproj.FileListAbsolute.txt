@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\DungeonCrawl\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\DungeonCrawl\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\DungeonCrawl\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DungeonCrawl\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\DungeonCrawl\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\bin\Debug\DungeonCrawl.exe.config
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\bin\Debug\DungeonCrawl.exe
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\bin\Debug\DungeonCrawl.pdb
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.Form1.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.NewGame.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.Properties.Resources.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.exe
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.pdb
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\bin\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.LoadedPlayerInfo.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.LoadGame.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.DungeonCrawlGame.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.OtherInfo.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.RoomInfo.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.EnemyInfo.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.ItemInfo.resources
+C:\Users\User\Desktop\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.TreasureInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\bin\Debug\DungeonCrawl.exe.config
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\bin\Debug\DungeonCrawl.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\bin\Debug\DungeonCrawl.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\bin\Debug\ClassLibrary.dll
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\bin\Debug\ClassLibrary.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.DungeonCrawlGame.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.EnemyInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.ItemInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.LoadedPlayerInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.LoadGame.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.NewGame.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.OtherInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.RoomInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.TreasureInfo.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.csproj.GenerateResource.Cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.Instructions.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.CurrentItems.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.CurrentKeyItems.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Dungeon Crawler\DungeonCrawl\DungeonCrawl\obj\Debug\DungeonCrawl.UseItem.resources
